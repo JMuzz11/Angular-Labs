@@ -3,12 +3,25 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
 ## List Of Commands Used To Generate This Application
+
+- `cd week4 tut`
+
+### Angular Commands
 - `ng new week4tut`
-- `cd week4tut`
-- `npm install bootstrap --save`
 - `ng generate component login`
 - `ng generate component account`
 - `ng serve --open`
+
+### NPM Commands
+- `npm install @angular/cli`
+- `npm install bootstrap --save`
+
+### Git Commands
+- `git init`
+- `git add .`
+- `git commit -m "Some Message"`
+- `git remote add origin <Repo URL>`
+- `git push -u origin master`
 
 ## Development server
 
