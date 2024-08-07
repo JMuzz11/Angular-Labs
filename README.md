@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
+## List Of Commands Used To Generate This Application
+- `ng new week4tut`
+- `cd week4tut`
+- `npm install bootstrap --save`
+- `ng generate component login`
+- `ng generate component account`
+- `ng serve --open`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
